@@ -1,2 +1,2 @@
-# Tik-Tac-Toe
-Tik-tac-toe game using pygame library
+# FinanceTracker
+Financial tracker using pygame library
